@@ -2,7 +2,7 @@
 
 For any question or inquiry you can reach out the app developer by sending email to oleg@gordeev.cz.
 
-## Privacy Policy For Alphabet App
+## Privacy Policy
 
 The app doesn't collect any data, be it of personal or any other type, and will never collect any data in the future.
 
